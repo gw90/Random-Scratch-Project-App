@@ -1,0 +1,19 @@
+{ "name": "Random Scratch Project",
+"description": "It gives you ar random Scratch project.",
+"version": "1.0",
+"manifest_version": 2,
+"icons": {
+"scratch-16.png": "scratch-128.png"
+},
+"app": {
+"urls": [
+"http://gregorywickham.com/randscra.php"
+],
+"launch": {
+"web_url": "http://gregorywickham.com/randscra.php"
+}
+},
+"permissions": [
+	
+]
+}
